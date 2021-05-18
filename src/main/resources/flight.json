@@ -1,0 +1,277 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 7641,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2019-05-28T01:33:08 -02:00",
+    "baggage": [
+      {
+        "weight": 662,
+        "weightUnit": "kg",
+        "pieces": 289
+      },
+      {
+        "weight": 227,
+        "weightUnit": "lb",
+        "pieces": 569
+      },
+      {
+        "weight": 68,
+        "weightUnit": "kg",
+        "pieces": 899
+      },
+      {
+        "weight": 184,
+        "weightUnit": "kg",
+        "pieces": 65
+      }
+    ],
+    "cargo": [
+      {
+        "weight": 450,
+        "weightUnit": "kg",
+        "pieces": 677
+      },
+      {
+        "weight": 755,
+        "weightUnit": "lb",
+        "pieces": 630
+      },
+      {
+        "weight": 769,
+        "weightUnit": "kg",
+        "pieces": 544
+      }
+    ]
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 1459,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2016-12-20T06:43:59 -01:00",
+    "baggage": [
+      {
+        "weight": 795,
+        "weightUnit": "kg",
+        "pieces": 675
+      },
+      {
+        "weight": 243,
+        "weightUnit": "lb",
+        "pieces": 368
+      },
+      {
+        "weight": 743,
+        "weightUnit": "lb",
+        "pieces": 891
+      },
+      {
+        "weight": 461,
+        "weightUnit": "lb",
+        "pieces": 765
+      },
+      {
+        "weight": 686,
+        "weightUnit": "kg",
+        "pieces": 877
+      },
+      {
+        "weight": 477,
+        "weightUnit": "lb",
+        "pieces": 375
+      },
+      {
+        "weight": 411,
+        "weightUnit": "lb",
+        "pieces": 257
+      }
+    ],
+    "cargo": [
+      {
+        "weight": 254,
+        "weightUnit": "lb",
+        "pieces": 430
+      },
+      {
+        "weight": 918,
+        "weightUnit": "kg",
+        "pieces": 337
+      },
+      {
+        "weight": 716,
+        "weightUnit": "lb",
+        "pieces": 548
+      },
+      {
+        "weight": 545,
+        "weightUnit": "kg",
+        "pieces": 630
+      }
+    ]
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 2588,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2019-03-19T03:23:31 -01:00",
+    "baggage": [
+      {
+        "weight": 687,
+        "weightUnit": "kg",
+        "pieces": 497
+      },
+      {
+        "weight": 633,
+        "weightUnit": "lb",
+        "pieces": 121
+      },
+      {
+        "weight": 293,
+        "weightUnit": "kg",
+        "pieces": 386
+      },
+      {
+        "weight": 667,
+        "weightUnit": "lb",
+        "pieces": 173
+      },
+      {
+        "weight": 595,
+        "weightUnit": "lb",
+        "pieces": 321
+      },
+      {
+        "weight": 338,
+        "weightUnit": "lb",
+        "pieces": 994
+      },
+      {
+        "weight": 227,
+        "weightUnit": "lb",
+        "pieces": 143
+      },
+      {
+        "weight": 481,
+        "weightUnit": "lb",
+        "pieces": 8
+      }
+    ],
+    "cargo": [
+      {
+        "weight": 209,
+        "weightUnit": "kg",
+        "pieces": 597
+      },
+      {
+        "weight": 946,
+        "weightUnit": "kg",
+        "pieces": 288
+      },
+      {
+        "weight": 7,
+        "weightUnit": "kg",
+        "pieces": 934
+      }
+    ]
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 3447,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2019-06-16T01:44:09 -02:00",
+    "baggage": [
+      {
+        "weight": 257,
+        "weightUnit": "lb",
+        "pieces": 420
+      },
+      {
+        "weight": 782,
+        "weightUnit": "lb",
+        "pieces": 59
+      },
+      {
+        "weight": 10,
+        "weightUnit": "lb",
+        "pieces": 162
+      },
+      {
+        "weight": 948,
+        "weightUnit": "kg",
+        "pieces": 364
+      }
+    ],
+    "cargo": [
+      {
+        "weight": 361,
+        "weightUnit": "kg",
+        "pieces": 614
+      },
+      {
+        "weight": 236,
+        "weightUnit": "kg",
+        "pieces": 484
+      },
+      {
+        "weight": 718,
+        "weightUnit": "lb",
+        "pieces": 525
+      },
+      {
+        "weight": 625,
+        "weightUnit": "kg",
+        "pieces": 727
+      }
+    ]
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 5101,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2019-12-18T03:37:17 -01:00",
+    "baggage": [
+      {
+        "weight": 639,
+        "weightUnit": "lb",
+        "pieces": 620
+      },
+      {
+        "weight": 691,
+        "weightUnit": "lb",
+        "pieces": 42
+      },
+      {
+        "weight": 38,
+        "weightUnit": "lb",
+        "pieces": 788
+      },
+      {
+        "weight": 315,
+        "weightUnit": "kg",
+        "pieces": 739
+      }
+    ],
+    "cargo": [
+      {
+        "weight": 210,
+        "weightUnit": "kg",
+        "pieces": 674
+      },
+      {
+        "weight": 495,
+        "weightUnit": "lb",
+        "pieces": 757
+      },
+      {
+        "weight": 489,
+        "weightUnit": "kg",
+        "pieces": 862
+      }
+    ]
+  }
+]
